@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=xx\ yy\ room
+comment1.target=Camera(int,\ int,\ Room)
+comment2.params=
+comment2.target=int\ getXX()
+comment3.params=
+comment3.target=int\ getYY()
+comment4.params=
+comment4.target=void\ boundary()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
