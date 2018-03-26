@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=xx\ yy\ room
+comment1.target=Wall(int,\ int,\ Room)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

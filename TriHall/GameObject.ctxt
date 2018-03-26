@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameObject
+comment1.params=xx\ yy\ room
+comment1.target=GameObject(int,\ int,\ Room)
+comment2.params=
+comment2.target=void\ camera()
+comment3.params=xx\ yy
+comment3.target=void\ calXY(double,\ double)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
